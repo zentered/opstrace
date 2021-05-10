@@ -50,6 +50,8 @@ curl -L https://go.opstrace.com/cli-latest-macos | tar xjf -
 curl -L https://go.opstrace.com/cli-latest-linux | tar xjf -
 ```
 
+<!-- /tabs -->
+
 Make note of this new version:
 
 ```bash
